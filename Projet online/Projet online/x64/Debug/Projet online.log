@@ -1,4 +1,4 @@
 ﻿  main.cpp
-C:\Users\Ethan\source\repos\Projet online\Projet online\main.cpp(93,69): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-C:\Users\Ethan\source\repos\Projet online\Projet online\main.cpp(93,57): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-  Projet online.vcxproj -> C:\Users\Ethan\source\repos\Projet online\x64\Debug\Projet online.exe
+C:\Users\Ethan\Documents\GitHub\morpion\Projet online\Projet online\main.cpp(93,69): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Ethan\Documents\GitHub\morpion\Projet online\Projet online\main.cpp(93,57): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  Projet online.vcxproj -> C:\Users\Ethan\Documents\GitHub\morpion\Projet online\x64\Debug\Projet online.exe
